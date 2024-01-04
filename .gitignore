@@ -1,0 +1,10 @@
+.Rproj.user
+*.Rproj
+.Rhistory
+.RData
+data
+results/
+*.report
+nanoplot_qc/
+*.qmd
+*.txt
