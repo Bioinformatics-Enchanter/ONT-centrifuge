@@ -8,3 +8,8 @@ results/
 nanoplot_qc/
 *.qmd
 *.txt
+adapter/
+unaligned
+centrifuge_output
+ref/
+qc/
